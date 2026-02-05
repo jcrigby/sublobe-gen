@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="80.8mm" height="90.2mm"
+     viewBox="34.60 10.15 80.80 90.21">
+  <rect x="34.60035906280722" y="10.149375" width="80.79928187438556" height="90.21375" fill="#111111"/>
+  <path id="cell_0" d="M 72.32,26.00 L 77.14,22.67 L 76.86,21.59 L 73.36,20.70 L 72.07,25.80 L 72.32,26.00 Z" fill="#D4A574" stroke="#1a1a1a" stroke-width="2.0"/>
+  <path id="cell_1" d="M 76.86,21.59 L 75.00,14.25 L 73.36,20.70 L 76.86,21.59 Z" fill="#C4956A" stroke="#1a1a1a" stroke-width="2.0"/>
+  <path id="cell_2" d="M 72.32,26.00 L 72.07,25.80 L 69.50,35.90 L 55.66,27.12 L 58.00,43.11 L 58.72,43.42 L 72.30,35.16 L 72.32,26.00 Z" fill="#B8860B" stroke="#1a1a1a" stroke-width="2.0"/>
+  <path id="cell_3" d="M 72.32,26.00 L 72.30,35.16 L 83.95,44.55 L 92.41,40.27 L 94.34,27.12 L 80.50,35.90 L 77.14,22.67 L 72.32,26.00 Z" fill="#8B7355" stroke="#1a1a1a" stroke-width="2.0"/>
+  <path id="cell_4" d="M 58.00,43.11 L 58.90,49.24 L 38.70,44.54 L 45.79,54.06 L 59.83,52.32 L 58.72,43.42 L 58.00,43.11 Z" fill="#6B4423" stroke="#1a1a1a" stroke-width="2.0"/>
+  <path id="cell_5" d="M 45.79,54.06 L 48.50,57.70 L 54.25,56.98 L 53.77,53.07 L 45.79,54.06 Z" fill="#D4A574" stroke="#1a1a1a" stroke-width="2.0"/>
+  <path id="cell_6" d="M 48.50,57.70 L 50.17,59.93 L 54.55,59.39 L 54.25,56.98 L 48.50,57.70 Z" fill="#C4956A" stroke="#1a1a1a" stroke-width="2.0"/>
+  <path id="cell_7" d="M 50.17,59.93 L 52.47,63.02 L 51.79,63.43 L 54.89,62.09 L 54.55,59.39 L 50.17,59.93 Z" fill="#B8860B" stroke="#1a1a1a" stroke-width="2.0"/>
+  <path id="cell_8" d="M 54.89,62.09 L 60.72,59.56 L 59.83,52.32 L 53.77,53.07 L 54.89,62.09 Z" fill="#8B7355" stroke="#1a1a1a" stroke-width="2.0"/>
+  <path id="cell_9" d="M 72.30,35.16 L 58.72,43.42 L 60.72,59.56 L 70.77,64.93 L 83.18,56.91 L 83.95,44.55 L 72.30,35.16 Z" fill="#6B4423" stroke="#1a1a1a" stroke-width="2.0"/>
+  <path id="cell_10" d="M 83.95,44.55 L 83.18,56.91 L 95.85,64.59 L 97.98,63.29 L 97.53,63.02 L 108.80,47.89 L 108.74,45.14 L 91.10,49.24 L 92.41,40.27 L 83.95,44.55 Z" fill="#D4A574" stroke="#1a1a1a" stroke-width="2.0"/>
+  <path id="cell_11" d="M 108.80,47.89 L 111.30,44.54 L 108.74,45.14 L 108.80,47.89 Z" fill="#C4956A" stroke="#1a1a1a" stroke-width="2.0"/>
+  <path id="cell_12" d="M 49.98,64.51 L 42.10,69.20 L 48.44,72.37 L 49.98,64.51 Z" fill="#B8860B" stroke="#1a1a1a" stroke-width="2.0"/>
+  <path id="cell_13" d="M 51.79,63.43 L 49.98,64.51 L 48.44,72.37 L 56.84,76.59 L 61.85,82.59 L 64.62,83.77 L 71.57,78.51 L 70.77,64.93 L 60.72,59.56 L 51.79,63.43 Z" fill="#8B7355" stroke="#1a1a1a" stroke-width="2.0"/>
+  <path id="cell_14" d="M 95.85,64.59 L 83.18,56.91 L 70.77,64.93 L 71.57,78.51 L 81.87,83.96 L 90.52,79.75 L 93.16,76.59 L 96.55,74.89 L 95.85,64.59 Z" fill="#6B4423" stroke="#1a1a1a" stroke-width="2.0"/>
+  <path id="cell_15" d="M 95.85,64.59 L 96.55,74.89 L 107.90,69.20 L 97.98,63.29 L 95.85,64.59 Z" fill="#D4A574" stroke="#1a1a1a" stroke-width="2.0"/>
+  <path id="cell_16" d="M 81.87,83.96 L 71.57,78.51 L 64.62,83.77 L 70.84,86.42 L 75.00,96.26 L 79.16,86.42 L 82.08,85.17 L 81.87,83.96 Z" fill="#C4956A" stroke="#1a1a1a" stroke-width="2.0"/>
+  <path id="cell_17" d="M 81.87,83.96 L 82.08,85.17 L 88.15,82.59 L 90.52,79.75 L 81.87,83.96 Z" fill="#B8860B" stroke="#1a1a1a" stroke-width="2.0"/>
+  <path id="vein_0" d="M 75.00,94.62 L 75.00,18.35" fill="none" stroke="#1a1a1a" stroke-width="2.4"/>
+  <path id="vein_1" d="M 75.00,94.62 L 75.90,94.13" fill="none" stroke="#1a1a1a" stroke-width="2.4"/>
+  <path id="vein_2" d="M 75.00,94.62 L 76.24,93.34" fill="none" stroke="#1a1a1a" stroke-width="2.4"/>
+  <path id="vein_3" d="M 85.43,83.75 L 89.93,79.05 L 96.88,71.75 L 102.39,65.91" fill="none" stroke="#1a1a1a" stroke-width="2.4"/>
+  <path id="vein_4" d="M 84.13,84.30 L 86.04,71.86" fill="none" stroke="#1a1a1a" stroke-width="2.4"/>
+  <path id="vein_5" d="M 97.52,70.77 L 107.12,68.73" fill="none" stroke="#1a1a1a" stroke-width="2.4"/>
+  <path id="vein_6" d="M 75.00,94.62 L 79.14,85.18 L 82.99,75.83 L 86.29,66.64 L 88.92,57.65 L 90.88,48.85 L 92.30,40.20 L 93.42,31.65" fill="none" stroke="#1a1a1a" stroke-width="2.4"/>
+  <path id="vein_7" d="M 78.68,82.03 L 73.11,70.08" fill="none" stroke="#1a1a1a" stroke-width="2.4"/>
+  <path id="vein_8" d="M 84.21,63.14 L 96.69,52.16" fill="none" stroke="#1a1a1a" stroke-width="2.4"/>
+  <path id="vein_9" d="M 89.74,44.25 L 87.38,31.53" fill="none" stroke="#1a1a1a" stroke-width="2.4"/>
+  <path id="vein_10" d="M 75.00,94.62 L 71.01,85.17 L 67.31,75.79 L 64.17,66.57 L 61.69,57.53 L 59.89,48.67 L 58.64,39.96 L 57.68,31.34" fill="none" stroke="#1a1a1a" stroke-width="2.4"/>
+  <path id="vein_11" d="M 71.54,81.97 L 62.53,75.68" fill="none" stroke="#1a1a1a" stroke-width="2.4"/>
+  <path id="vein_12" d="M 66.34,62.98 L 69.42,48.60" fill="none" stroke="#1a1a1a" stroke-width="2.4"/>
+  <path id="vein_13" d="M 61.15,44.00 L 57.64,40.64" fill="none" stroke="#1a1a1a" stroke-width="2.4"/>
+  <path id="vein_14" d="M 75.00,94.62 L 73.72,93.23" fill="none" stroke="#1a1a1a" stroke-width="2.4"/>
+  <path id="vein_15" d="M 65.33,84.07 L 60.44,78.72 L 53.69,71.24 L 48.50,65.39" fill="none" stroke="#1a1a1a" stroke-width="2.4"/>
+  <path id="vein_16" d="M 53.23,70.08 L 52.00,63.31" fill="none" stroke="#1a1a1a" stroke-width="2.4"/>
+  <path id="vein_17" d="M 51.77,62.08 L 50.36,54.35" fill="none" stroke="#1a1a1a" stroke-width="2.4"/>
+  <path id="vein_18" d="M 75.00,94.62 L 74.11,94.16" fill="none" stroke="#1a1a1a" stroke-width="2.4"/>
+  <path id="boundary" d="M 75.00,14.25 L 80.50,35.90 L 94.34,27.12 L 91.10,49.24 L 111.30,44.54 L 97.53,63.02 L 107.90,69.20 L 93.16,76.59 L 88.15,82.59 L 79.16,86.42 L 75.00,96.26 L 70.84,86.42 L 61.85,82.59 L 56.84,76.59 L 42.10,69.20 L 52.47,63.02 L 38.70,44.54 L 58.90,49.24 L 55.66,27.12 L 69.50,35.90 L 75.00,14.25 Z" fill="none" stroke="#1a1a1a" stroke-width="3.6"/>
+</svg>

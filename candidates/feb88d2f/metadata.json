@@ -1,0 +1,27 @@
+{
+  "uuid": "feb88d2f",
+  "created": "2026-02-04T21:04:53.270208",
+  "worker_id": 2,
+  "algorithm": "gimp_mosaic_adapted",
+  "source": {
+    "type": "procedural",
+    "method": "hex_grid_localize",
+    "silhouette": "simple_leaf",
+    "params": {
+      "num_primary_veins": 4,
+      "num_secondary_per_vein": 3,
+      "tile_size_mm": 24.8,
+      "neatness": 0.213,
+      "attraction_radius_mm": 37.2
+    }
+  },
+  "cells": {
+    "count": 15,
+    "all_valid": true,
+    "vein_count": 12
+  },
+  "dimensions": {
+    "width_mm": 150,
+    "height_mm": 200
+  }
+}

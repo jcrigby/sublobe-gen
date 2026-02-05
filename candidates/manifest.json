@@ -1,50 +1,50 @@
 [
   {
-    "uuid": "45405c2f",
-    "folder": "45405c2f",
-    "cells": 116,
-    "method": "organic",
-    "width": 200,
-    "height": 100
-  },
-  {
-    "uuid": "17758f68",
-    "folder": "17758f68",
-    "cells": 117,
-    "method": "organic",
-    "width": 100,
+    "uuid": "bbc287de",
+    "folder": "bbc287de",
+    "cells": 18,
+    "method": "hex_grid_localize",
+    "width": 150,
     "height": 150
   },
   {
-    "uuid": "c7920b17",
-    "folder": "c7920b17",
-    "cells": 97,
-    "method": "organic",
-    "width": 200,
-    "height": 100
+    "uuid": "871b3528",
+    "folder": "871b3528",
+    "cells": 26,
+    "method": "hex_grid_localize",
+    "width": 150,
+    "height": 200
   },
   {
-    "uuid": "160f7814",
-    "folder": "160f7814",
-    "cells": 103,
-    "method": "organic",
+    "uuid": "8a6869ac",
+    "folder": "8a6869ac",
+    "cells": 16,
+    "method": "hex_grid_localize",
     "width": 200,
-    "height": 100
+    "height": 150
   },
   {
-    "uuid": "49b92101",
-    "folder": "49b92101",
-    "cells": 72,
-    "method": "organic",
+    "uuid": "eba7d326",
+    "folder": "eba7d326",
+    "cells": 15,
+    "method": "hex_grid_localize",
     "width": 200,
     "height": 200
   },
   {
-    "uuid": "a5025cd8",
-    "folder": "a5025cd8",
-    "cells": 105,
-    "method": "organic",
+    "uuid": "111c38ae",
+    "folder": "111c38ae",
+    "cells": 18,
+    "method": "hex_grid_localize",
     "width": 200,
-    "height": 100
+    "height": 150
+  },
+  {
+    "uuid": "feb88d2f",
+    "folder": "feb88d2f",
+    "cells": 15,
+    "method": "hex_grid_localize",
+    "width": 150,
+    "height": 200
   }
 ]
