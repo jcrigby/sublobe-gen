@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" 
+     width="200mm" height="100mm" 
+     viewBox="0 0 200 100">
+  <rect width="100%" height="100%" fill="#1a1a1a"/>
+  <path id="cell_0" d="M 86.42,30.11 L 84.20,37.65 L 84.44,38.64 L 102.24,40.72 L 118.68,20.34 L 111.57,11.20 L 100.00,19.88 L 96.40,17.18 L 86.42,30.11 Z" fill="#D4A574" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_1" d="M 60.56,64.87 L 53.02,67.80 L 56.80,79.30 L 69.32,75.19 L 60.56,64.87 Z" fill="#C4956A" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_2" d="M 53.02,67.80 L 50.68,68.71 L 51.71,71.83 L 54.09,71.04 L 53.02,67.80 Z" fill="#B8860B" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_3" d="M 50.68,68.71 L 48.08,69.72 L 49.75,70.00 L 48.28,72.28 L 48.48,72.89 L 51.71,71.83 L 50.68,68.71 Z" fill="#8B7355" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_4" d="M 48.48,72.89 L 49.40,75.66 L 52.20,74.74 L 51.28,71.96 L 48.48,72.89 Z" fill="#6B4423" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_5" d="M 52.20,74.74 L 55.00,73.82 L 54.09,71.04 L 51.28,71.96 L 52.20,74.74 Z" fill="#D4A574" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_6" d="M 49.40,75.66 L 51.20,81.15 L 56.80,79.30 L 55.00,73.82 L 49.40,75.66 Z" fill="#C4956A" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_7" d="M 48.28,72.28 L 44.54,78.08 L 49.94,81.56 L 51.20,81.15 L 48.28,72.28 Z" fill="#B8860B" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_8" d="M 44.54,78.08 L 43.11,80.31 L 45.39,81.77 L 46.82,79.55 L 44.54,78.08 Z" fill="#8B7355" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_9" d="M 45.39,81.77 L 46.71,82.62 L 49.94,81.56 L 46.82,79.55 L 45.39,81.77 Z" fill="#6B4423" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_10" d="M 43.11,80.31 L 42.78,80.82 L 43.71,83.61 L 46.71,82.62 L 43.11,80.31 Z" fill="#D4A574" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_11" d="M 42.78,80.82 L 40.25,84.75 L 43.71,83.61 L 42.78,80.82 Z" fill="#C4956A" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_12" d="M 15.24,46.83 L 15.27,46.84 L 15.48,45.40 L 14.18,45.21 L 14.05,46.13 L 15.24,46.83 Z" fill="#B8860B" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_13" d="M 15.48,45.40 L 15.68,44.01 L 14.32,44.24 L 14.18,45.21 L 15.48,45.40 Z" fill="#8B7355" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_14" d="M 14.32,44.24 L 13.42,44.39 L 13.24,45.65 L 14.05,46.13 L 14.32,44.24 Z" fill="#6B4423" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_15" d="M 13.42,44.39 L 11.61,44.69 L 13.24,45.65 L 13.42,44.39 Z" fill="#D4A574" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_16" d="M 15.27,46.84 L 16.29,47.18 L 16.53,45.50 L 15.48,45.35 L 15.27,46.84 Z" fill="#C4956A" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_17" d="M 16.29,47.18 L 17.24,47.50 L 17.50,45.64 L 16.53,45.50 L 16.29,47.18 Z" fill="#B8860B" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_18" d="M 17.50,45.64 L 17.79,43.66 L 16.80,43.83 L 16.56,45.51 L 17.50,45.64 Z" fill="#8B7355" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_19" d="M 16.80,43.83 L 15.68,44.01 L 15.48,45.35 L 16.56,45.51 L 16.80,43.83 Z" fill="#6B4423" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_20" d="M 17.24,47.50 L 20.33,48.53 L 21.11,43.11 L 17.79,43.66 L 17.24,47.50 Z" fill="#D4A574" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_21" d="M 20.33,48.53 L 25.12,50.12 L 26.26,42.25 L 21.11,43.11 L 20.33,48.53 Z" fill="#C4956A" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_22" d="M 41.29,11.08 L 51.96,33.24 L 72.41,27.84 L 70.31,24.26 L 70.00,24.88 L 41.32,10.53 L 41.29,11.08 Z" fill="#B8860B" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_23" d="M 24.73,63.27 L 25.47,64.41 L 39.40,58.91 L 38.17,55.79 L 24.71,62.52 L 24.73,63.27 Z" fill="#8B7355" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_24" d="M 39.40,58.91 L 46.67,56.04 L 42.14,44.55 L 34.86,47.42 L 37.57,54.27 L 39.75,55.00 L 38.17,55.79 L 39.40,58.91 Z" fill="#6B4423" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_25" d="M 34.86,47.42 L 34.05,47.74 L 32.44,52.56 L 37.57,54.27 L 34.86,47.42 Z" fill="#D4A574" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_26" d="M 34.05,47.74 L 31.60,48.71 L 30.53,51.93 L 32.44,52.56 L 34.05,47.74 Z" fill="#C4956A" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_27" d="M 31.60,48.71 L 26.69,50.65 L 30.53,51.93 L 31.60,48.71 Z" fill="#B8860B" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_28" d="M 25.47,64.41 L 26.58,66.14 L 48.08,69.72 L 51.54,68.38 L 46.67,56.04 L 25.47,64.41 Z" fill="#8B7355" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_29" d="M 51.54,68.38 L 60.56,64.87 L 66.17,53.42 L 52.75,40.36 L 42.14,44.55 L 51.54,68.38 Z" fill="#6B4423" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_30" d="M 122.14,42.44 L 133.60,46.48 L 142.22,26.00 L 137.97,23.10 L 133.44,23.16 L 130.00,24.88 L 129.18,23.23 L 122.14,42.44 Z" fill="#D4A574" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_31" d="M 100.24,79.52 L 97.40,75.11 L 92.31,78.39 L 92.55,78.78 L 99.50,79.88 L 99.51,80.45 L 100.24,79.52 Z" fill="#C4956A" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_32" d="M 97.40,75.11 L 95.49,72.16 L 90.40,75.44 L 92.31,78.39 L 97.40,75.11 Z" fill="#B8860B" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_33" d="M 95.49,72.16 L 91.78,66.40 L 86.69,69.68 L 90.40,75.44 L 95.49,72.16 Z" fill="#8B7355" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_34" d="M 86.69,69.68 L 86.01,70.12 L 84.84,77.55 L 92.55,78.78 L 86.69,69.68 Z" fill="#6B4423" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_35" d="M 86.01,70.12 L 82.85,72.16 L 82.06,77.11 L 84.84,77.55 L 86.01,70.12 Z" fill="#D4A574" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_36" d="M 82.85,72.16 L 76.52,76.24 L 82.06,77.11 L 82.85,72.16 Z" fill="#C4956A" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_37" d="M 91.78,66.40 L 87.29,59.43 L 67.03,72.49 L 69.32,75.19 L 69.50,75.12 L 76.52,76.24 L 91.78,66.40 Z" fill="#B8860B" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_38" d="M 87.29,59.43 L 79.20,46.87 L 66.17,53.42 L 60.56,64.87 L 67.03,72.49 L 87.29,59.43 Z" fill="#8B7355" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_39" d="M 118.68,20.34 L 102.24,40.72 L 112.44,52.73 L 122.14,42.44 L 129.18,23.23 L 129.17,23.21 L 118.68,20.34 Z" fill="#6B4423" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_40" d="M 24.73,63.27 L 23.76,63.36 L 23.58,64.42 L 24.74,64.62 L 24.91,63.56 L 24.73,63.27 Z" fill="#D4A574" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_41" d="M 23.58,64.42 L 23.39,65.61 L 24.54,65.80 L 24.74,64.62 L 23.58,64.42 Z" fill="#C4956A" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_42" d="M 24.54,65.80 L 26.58,66.14 L 25.77,64.89 L 24.56,65.67 L 24.54,65.80 Z" fill="#B8860B" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_43" d="M 25.77,64.89 L 24.91,63.56 L 24.56,65.67 L 25.77,64.89 Z" fill="#8B7355" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_44" d="M 23.76,63.36 L 22.85,63.45 L 22.43,63.66 L 22.31,64.37 L 23.56,64.58 L 23.76,63.36 Z" fill="#6B4423" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_45" d="M 22.31,64.37 L 22.14,65.40 L 23.39,65.61 L 23.56,64.58 L 22.31,64.37 Z" fill="#D4A574" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_46" d="M 22.43,63.66 L 19.75,65.00 L 22.14,65.40 L 22.43,63.66 Z" fill="#C4956A" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_47" d="M 122.14,42.44 L 112.44,52.73 L 116.11,63.74 L 124.84,63.04 L 132.49,59.77 L 133.60,46.48 L 122.14,42.44 Z" fill="#B8860B" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_48" d="M 148.23,61.41 L 150.93,65.66 L 160.66,68.26 L 174.51,65.96 L 175.04,64.71 L 154.63,51.51 L 148.23,61.41 Z" fill="#8B7355" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_49" d="M 175.04,64.71 L 175.36,63.96 L 175.69,62.72 L 174.73,62.24 L 173.69,63.84 L 175.04,64.71 Z" fill="#6B4423" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_50" d="M 174.73,62.24 L 173.42,61.58 L 172.47,63.05 L 173.69,63.84 L 174.73,62.24 Z" fill="#D4A574" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_51" d="M 173.42,61.58 L 172.02,60.88 L 171.16,62.21 L 172.47,63.05 L 173.42,61.58 Z" fill="#C4956A" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_52" d="M 172.02,60.88 L 170.51,60.13 L 169.76,61.30 L 171.16,62.21 L 172.02,60.88 Z" fill="#B8860B" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_53" d="M 170.51,60.13 L 168.83,59.29 L 168.19,60.29 L 169.76,61.30 L 170.51,60.13 Z" fill="#8B7355" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_54" d="M 168.83,59.29 L 166.93,58.34 L 166.42,59.14 L 168.19,60.29 L 168.83,59.29 Z" fill="#6B4423" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_55" d="M 166.93,58.34 L 164.61,57.18 L 164.25,57.73 L 166.42,59.14 L 166.93,58.34 Z" fill="#D4A574" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_56" d="M 164.61,57.18 L 161.09,55.42 L 160.97,55.61 L 164.25,57.73 L 164.61,57.18 Z" fill="#C4956A" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_57" d="M 161.09,55.42 L 160.25,55.00 L 161.67,54.53 L 168.53,43.92 L 163.92,40.61 L 161.90,40.28 L 154.63,51.51 L 160.97,55.61 L 161.09,55.42 Z" fill="#B8860B" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_58" d="M 161.67,54.53 L 166.14,53.04 L 163.67,51.44 L 161.67,54.53 Z" fill="#8B7355" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_59" d="M 166.14,53.04 L 168.24,52.34 L 164.72,49.81 L 163.67,51.44 L 166.14,53.04 Z" fill="#6B4423" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_60" d="M 168.24,52.34 L 171.53,51.24 L 168.53,49.09 L 166.89,51.37 L 168.24,52.34 Z" fill="#D4A574" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_61" d="M 168.53,49.09 L 166.25,47.45 L 164.72,49.81 L 166.89,51.37 L 168.53,49.09 Z" fill="#C4956A" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_62" d="M 171.53,51.24 L 176.46,49.60 L 168.53,43.92 L 166.25,47.45 L 171.53,51.24 Z" fill="#B8860B" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_63" d="M 86.42,30.11 L 96.40,17.18 L 80.00,4.88 L 79.45,5.98 L 86.42,30.11 Z" fill="#8B7355" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_64" d="M 100.24,79.52 L 99.66,80.26 L 100.47,80.64 L 100.50,79.88 L 101.69,79.69 L 101.35,78.98 L 100.24,79.52 Z" fill="#6B4423" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_65" d="M 101.69,79.69 L 103.21,79.45 L 102.68,78.34 L 101.35,78.98 L 101.69,79.69 Z" fill="#D4A574" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_66" d="M 103.21,79.45 L 104.43,79.25 L 103.74,77.82 L 102.68,78.34 L 103.21,79.45 Z" fill="#C4956A" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_67" d="M 104.43,79.25 L 105.27,79.12 L 104.83,77.29 L 103.74,77.82 L 104.43,79.25 Z" fill="#B8860B" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_68" d="M 105.27,79.12 L 106.98,78.85 L 106.80,77.76 L 105.02,78.05 L 105.27,79.12 Z" fill="#8B7355" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_69" d="M 106.80,77.76 L 106.60,76.44 L 104.83,77.29 L 105.02,78.05 L 106.80,77.76 Z" fill="#6B4423" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_70" d="M 106.98,78.85 L 107.89,78.71 L 107.71,77.61 L 106.80,77.75 L 106.98,78.85 Z" fill="#D4A574" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_71" d="M 107.71,77.61 L 107.61,76.95 L 106.77,76.36 L 106.60,76.44 L 106.80,77.75 L 107.71,77.61 Z" fill="#C4956A" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_72" d="M 107.89,78.71 L 109.69,78.42 L 107.61,76.95 L 107.89,78.71 Z" fill="#B8860B" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_73" d="M 99.66,80.26 L 99.51,80.45 L 99.53,81.90 L 100.42,81.88 L 100.47,80.64 L 99.66,80.26 Z" fill="#8B7355" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_74" d="M 99.53,81.90 L 99.54,83.44 L 100.37,83.43 L 100.42,81.88 L 99.53,81.90 Z" fill="#6B4423" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_75" d="M 99.54,83.44 L 99.57,85.09 L 100.30,85.08 L 100.37,83.43 L 99.54,83.44 Z" fill="#D4A574" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_76" d="M 99.57,85.09 L 99.59,86.87 L 100.24,86.87 L 100.30,85.08 L 99.57,85.09 Z" fill="#C4956A" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_77" d="M 99.59,86.87 L 99.61,88.88 L 100.16,88.87 L 100.24,86.87 L 99.59,86.87 Z" fill="#B8860B" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_78" d="M 99.61,88.88 L 99.64,91.16 L 100.07,91.17 L 100.16,88.87 L 99.61,88.88 Z" fill="#8B7355" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_79" d="M 99.64,91.16 L 99.75,99.75 L 100.07,91.17 L 99.64,91.16 Z" fill="#6B4423" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_80" d="M 150.93,65.66 L 148.23,61.41 L 147.94,61.43 L 138.59,77.79 L 152.08,82.23 L 151.35,71.71 L 150.25,70.00 L 151.22,69.84 L 150.93,65.66 Z" fill="#D4A574" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_81" d="M 52.75,40.36 L 66.17,53.42 L 79.20,46.87 L 84.44,38.64 L 84.20,37.65 L 72.41,27.84 L 51.96,33.24 L 52.75,40.36 Z" fill="#C4956A" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_82" d="M 142.22,26.00 L 133.60,46.48 L 132.49,59.77 L 147.94,61.43 L 148.23,61.41 L 161.90,40.28 L 160.25,40.00 L 162.10,38.60 L 159.63,30.78 L 153.86,29.20 L 150.25,29.75 L 150.94,28.39 L 142.22,26.00 Z" fill="#B8860B" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_83" d="M 175.36,63.96 L 174.51,65.96 L 175.99,65.71 L 175.74,64.18 L 175.36,63.96 Z" fill="#8B7355" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_84" d="M 175.99,65.71 L 177.81,65.41 L 175.74,64.18 L 175.99,65.71 Z" fill="#6B4423" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_85" d="M 175.36,63.96 L 176.16,64.43 L 176.75,63.25 L 175.69,62.72 L 175.36,63.96 Z" fill="#D4A574" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_86" d="M 176.16,64.43 L 177.05,64.95 L 177.67,63.71 L 176.75,63.25 L 176.16,64.43 Z" fill="#C4956A" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_87" d="M 177.05,64.95 L 177.81,65.41 L 178.00,65.38 L 178.60,64.17 L 177.67,63.71 L 177.05,64.95 Z" fill="#B8860B" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_88" d="M 178.00,65.38 L 180.25,65.00 L 178.60,64.17 L 178.00,65.38 Z" fill="#8B7355" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_89" d="M 84.20,37.65 L 86.42,30.11 L 84.05,21.90 L 71.11,25.64 L 72.41,27.84 L 84.20,37.65 Z" fill="#6B4423" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_90" d="M 84.05,21.90 L 82.50,16.54 L 72.76,19.35 L 70.31,24.26 L 71.11,25.64 L 84.05,21.90 Z" fill="#D4A574" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_91" d="M 82.50,16.54 L 81.48,13.02 L 74.99,14.90 L 72.76,19.35 L 82.50,16.54 Z" fill="#C4956A" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_92" d="M 81.48,13.02 L 81.38,12.67 L 77.16,10.56 L 74.99,14.90 L 81.48,13.02 Z" fill="#B8860B" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_93" d="M 81.38,12.67 L 80.44,9.42 L 77.27,10.33 L 77.16,10.56 L 81.38,12.67 Z" fill="#8B7355" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_94" d="M 80.44,9.42 L 79.45,5.98 L 77.27,10.33 L 80.44,9.42 Z" fill="#6B4423" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_95" d="M 133.25,76.03 L 138.59,77.79 L 147.94,61.43 L 132.49,59.77 L 124.84,63.04 L 133.25,76.03 Z" fill="#D4A574" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_96" d="M 52.75,40.36 L 51.96,33.24 L 41.29,11.08 L 40.77,12.03 L 49.75,29.75 L 32.56,27.13 L 29.69,32.39 L 39.75,40.00 L 26.26,42.25 L 25.12,50.12 L 26.69,50.65 L 52.75,40.36 Z" fill="#C4956A" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_97" d="M 106.77,76.36 L 109.69,78.42 L 120.19,76.76 L 118.84,63.52 L 116.11,63.74 L 106.77,76.36 Z" fill="#B8860B" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_98" d="M 120.19,76.76 L 125.60,75.90 L 125.28,70.24 L 119.59,70.82 L 120.19,76.76 Z" fill="#8B7355" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_99" d="M 125.60,75.90 L 128.50,75.44 L 128.35,72.80 L 125.44,72.96 L 125.60,75.90 Z" fill="#6B4423" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_100" d="M 128.35,72.80 L 128.20,69.95 L 125.28,70.24 L 125.44,72.96 L 128.35,72.80 Z" fill="#D4A574" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_101" d="M 128.50,75.44 L 130.50,75.12 L 133.25,76.03 L 131.00,72.56 L 128.43,74.22 L 128.50,75.44 Z" fill="#C4956A" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_102" d="M 131.00,72.56 L 129.24,69.84 L 128.20,69.95 L 128.43,74.22 L 131.00,72.56 Z" fill="#B8860B" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_103" d="M 129.24,69.84 L 124.84,63.04 L 118.84,63.52 L 119.59,70.82 L 129.24,69.84 Z" fill="#8B7355" stroke="#1a1a1a" stroke-width="2"/>
+  <path id="cell_104" d="M 112.44,52.73 L 102.24,40.72 L 84.44,38.64 L 79.20,46.87 L 100.24,79.52 L 106.77,76.36 L 116.11,63.74 L 112.44,52.73 Z" fill="#6B4423" stroke="#1a1a1a" stroke-width="2"/>
+</svg>

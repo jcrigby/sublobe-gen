@@ -1,0 +1,50 @@
+[
+  {
+    "uuid": "45405c2f",
+    "folder": "45405c2f",
+    "cells": 116,
+    "method": "organic",
+    "width": 200,
+    "height": 100
+  },
+  {
+    "uuid": "17758f68",
+    "folder": "17758f68",
+    "cells": 117,
+    "method": "organic",
+    "width": 100,
+    "height": 150
+  },
+  {
+    "uuid": "c7920b17",
+    "folder": "c7920b17",
+    "cells": 97,
+    "method": "organic",
+    "width": 200,
+    "height": 100
+  },
+  {
+    "uuid": "160f7814",
+    "folder": "160f7814",
+    "cells": 103,
+    "method": "organic",
+    "width": 200,
+    "height": 100
+  },
+  {
+    "uuid": "49b92101",
+    "folder": "49b92101",
+    "cells": 72,
+    "method": "organic",
+    "width": 200,
+    "height": 200
+  },
+  {
+    "uuid": "a5025cd8",
+    "folder": "a5025cd8",
+    "cells": 105,
+    "method": "organic",
+    "width": 200,
+    "height": 100
+  }
+]

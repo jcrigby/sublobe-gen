@@ -1,0 +1,40 @@
+{
+  "dfm_constraints": {
+    "min_feature_width_mm": 3.0,
+    "min_internal_radius_mm": 2.0,
+    "blade_kerf_mm": 3.0
+  },
+  "output": {
+    "render_width_px": 800,
+    "render_height_px": 800,
+    "wood_colors": ["#D4A574", "#C4956A", "#B8860B", "#8B7355", "#6B4423"],
+    "epoxy_color": "#1a1a1a",
+    "gap_width_mm": 2.0
+  },
+  "segmentation": {
+    "target_cells_min": 15,
+    "target_cells_max": 40,
+    "max_subdivision_iterations": 5
+  },
+  "sources": {
+    "image_search_queries": [
+      "art nouveau stained glass pattern",
+      "tiffany lamp detail",
+      "botanical illustration leaf",
+      "ginkgo leaf silhouette",
+      "maple leaf veins",
+      "oak leaf outline",
+      "art deco geometric pattern",
+      "william morris wallpaper pattern"
+    ],
+    "wikimedia_categories": [
+      "Botanical illustrations",
+      "Art Nouveau designs",
+      "Stained glass windows"
+    ]
+  },
+  "parallel": {
+    "candidates_per_worker": 10,
+    "target_total_candidates": 50
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "a5025cd8",
+  "created": "2026-02-04T20:31:40.616977",
+  "worker_id": 6,
+  "source": {
+    "type": "procedural",
+    "method": "organic",
+    "params": {
+      "target_count": 35,
+      "irregularity": 0.6504517721953949,
+      "reference": "maple-leaf-silhouette.png"
+    }
+  },
+  "cells": {
+    "count": 105,
+    "all_valid": false,
+    "subdivision_iterations": 5
+  },
+  "dimensions": {
+    "width_mm": 200,
+    "height_mm": 100
+  }
+}
